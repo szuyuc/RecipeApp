@@ -5,8 +5,8 @@ import Recipe from './Recipe';
 
 const App = () => {
 
-  const APP_ID = 'dd6159ee'
-  const APP_KEY = '876bd096218ac193616a9ac7eff649d3'
+  const APP_ID = ''
+  const APP_KEY = ''
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState('');
   const [query, setQuery] = useState('chicken');
